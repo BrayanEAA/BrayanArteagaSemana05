@@ -1,0 +1,15 @@
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\bin\Debug\net6.0\tarea05.exe
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\bin\Debug\net6.0\tarea05.deps.json
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\bin\Debug\net6.0\tarea05.runtimeconfig.json
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\bin\Debug\net6.0\tarea05.dll
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\bin\Debug\net6.0\tarea05.pdb
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.csproj.AssemblyReference.cache
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.AssemblyInfoInputs.cache
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.AssemblyInfo.cs
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.dll
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\refint\tarea05.dll
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.pdb
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\tarea05.genruntimeconfig.cache
+C:\Users\Brayan\Documents\GitHub\BrayanArteagaSemana05\tarea5\tarea05\obj\Debug\net6.0\ref\tarea05.dll
